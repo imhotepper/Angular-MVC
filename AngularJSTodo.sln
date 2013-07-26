@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJSTodo", "AngularJSTodo\AngularJSTodo.csproj", "{4BC2B730-01CB-45E8-90C3-0ADA26BEC0B8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://betadev.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = AngularJSTodo\\AngularJSTodo.csproj
+		SccProjectName0 = AngularJSTodo
+		SccAuxPath0 = https://betadev.visualstudio.com/defaultcollection
+		SccLocalPath0 = AngularJSTodo
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC2B730-01CB-45E8-90C3-0ADA26BEC0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC2B730-01CB-45E8-90C3-0ADA26BEC0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC2B730-01CB-45E8-90C3-0ADA26BEC0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC2B730-01CB-45E8-90C3-0ADA26BEC0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
